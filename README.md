@@ -1,8 +1,25 @@
 # openclaw-clickup-native-integration
 
+[![Release](https://img.shields.io/github/v/release/muhamadbasim/openclaw-clickup-native-integration)](https://github.com/muhamadbasim/openclaw-clickup-native-integration/releases)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+[![Companion Guide](https://img.shields.io/badge/companion-MCP%20route-blue)](https://github.com/muhamadbasim/integration-to-clickup-with-mcp)
+
 A practical guide for using **native ClickUp tools already exposed by OpenClaw**, without going through MCP.
 
 This repository exists as a lightweight reference so you can come back later, read the tutorial, and immediately understand the working path.
+
+## Table of contents
+
+- [What this repository covers](#what-this-repository-covers)
+- [When to use this route](#when-to-use-this-route)
+- [When to use the MCP route instead](#when-to-use-the-mcp-route-instead)
+- [What was tested successfully](#what-was-tested-successfully)
+- [Quick comparison](#quick-comparison)
+- [Example workflow](#example-workflow)
+- [Recommended operating pattern](#recommended-operating-pattern)
+- [Pros and cons](#pros-and-cons)
+- [How to verify in your own environment](#how-to-verify-in-your-own-environment)
+- [Release download](#release-download)
 
 ## What this repository covers
 
@@ -51,6 +68,16 @@ In the tested OpenClaw environment, these operations worked:
 - add a task comment
 - create a checklist
 - create checklist items
+
+## Quick comparison
+
+| Topic | Native route | MCP route |
+| --- | --- | --- |
+| Setup complexity | Lower | Medium |
+| Best for | Immediate use | Reusable setup |
+| Extra config needed | Usually no | Yes |
+| Portability | Lower | Higher |
+| Companion repo | This repo | `integration-to-clickup-with-mcp` |
 
 ## Example workflow
 
@@ -169,6 +196,11 @@ Try these in order from your OpenClaw session:
 If step 1 already fails because the ClickUp tools are unavailable, then use the MCP guide instead:
 
 - <https://github.com/muhamadbasim/integration-to-clickup-with-mcp>
+
+## Release download
+
+- Releases page: <https://github.com/muhamadbasim/openclaw-clickup-native-integration/releases>
+- Latest ZIP release: <https://github.com/muhamadbasim/openclaw-clickup-native-integration/releases/latest>
 
 ## Notes
 
