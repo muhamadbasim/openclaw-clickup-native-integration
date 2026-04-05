@@ -1,0 +1,23 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#07131F"/>
+  <rect x="54" y="52" width="1172" height="616" rx="28" fill="#0E2235" stroke="#1D4ED8"/>
+  <text x="94" y="126" fill="#EFF6FF" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="700">Native ClickUp Tools in OpenClaw</text>
+  <text x="94" y="166" fill="#93C5FD" font-size="22" font-family="Arial, Helvetica, sans-serif">Direct tool path without MCP</text>
+  <rect x="94" y="214" width="520" height="392" rx="22" fill="#0A1728" stroke="#334155"/>
+  <text x="124" y="262" fill="#F8FAFC" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">Tested workflow</text>
+  <text x="124" y="316" fill="#E2E8F0" font-size="23" font-family="Arial, Helvetica, sans-serif">1. clickup__get_workspaces</text>
+  <text x="124" y="356" fill="#E2E8F0" font-size="23" font-family="Arial, Helvetica, sans-serif">2. clickup__get_spaces</text>
+  <text x="124" y="396" fill="#E2E8F0" font-size="23" font-family="Arial, Helvetica, sans-serif">3. clickup__get_lists</text>
+  <text x="124" y="436" fill="#E2E8F0" font-size="23" font-family="Arial, Helvetica, sans-serif">4. clickup__create_task</text>
+  <text x="124" y="476" fill="#E2E8F0" font-size="23" font-family="Arial, Helvetica, sans-serif">5. clickup__create_task_comment</text>
+  <text x="124" y="516" fill="#E2E8F0" font-size="23" font-family="Arial, Helvetica, sans-serif">6. clickup__create_checklist</text>
+  <rect x="682" y="214" width="478" height="392" rx="22" fill="#082F49" stroke="#38BDF8"/>
+  <text x="714" y="262" fill="#E0F2FE" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700">Example result</text>
+  <text x="714" y="320" fill="#BAE6FD" font-size="22" font-family="monospace">[{</text>
+  <text x="714" y="356" fill="#BAE6FD" font-size="22" font-family="monospace">  "id": "90182591141",</text>
+  <text x="714" y="392" fill="#BAE6FD" font-size="22" font-family="monospace">  "name": "Basim's Workspace"</text>
+  <text x="714" y="428" fill="#BAE6FD" font-size="22" font-family="monospace">}]</text>
+  <rect x="714" y="492" width="222" height="46" rx="12" fill="#16A34A"/>
+  <text x="741" y="522" fill="#F0FDF4" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700">No MCP needed</text>
+  <text x="94" y="638" fill="#64748B" font-size="18" font-family="Arial, Helvetica, sans-serif">Preview asset for the README. Lightweight SVG so GitHub loads fast.</text>
+</svg>

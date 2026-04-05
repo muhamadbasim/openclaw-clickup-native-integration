@@ -6,12 +6,15 @@
 
 A practical guide for using **native ClickUp tools already exposed by OpenClaw**, without going through MCP.
 
-This repository exists as a lightweight reference so you can come back later, read the tutorial, and immediately understand the working path.
+This repository is for the path where OpenClaw already has built-in `clickup__*` tools and you want the fastest working route.
+
+![Native ClickUp preview](assets/native-preview.svg)
 
 ## Table of contents
 
 - [What this repository covers](#what-this-repository-covers)
 - [When to use this route](#when-to-use-this-route)
+- [Visual preview](#visual-preview)
 - [When to use the MCP route instead](#when-to-use-the-mcp-route-instead)
 - [What was tested successfully](#what-was-tested-successfully)
 - [Quick comparison](#quick-comparison)
@@ -44,6 +47,17 @@ Use this route when:
 - you want the simplest path
 - you do not want to maintain manual MCP config
 - you just need working task operations now
+
+## Visual preview
+
+The image below is a lightweight README preview card that summarizes the tested native path:
+
+![Native preview card](assets/native-preview.svg)
+
+What it represents:
+- workspaces → spaces → lists → task creation
+- direct ClickUp operations from built-in OpenClaw tools
+- no MCP setup required for this path
 
 ## When to use the MCP route instead
 
